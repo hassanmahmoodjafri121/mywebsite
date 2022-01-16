@@ -1,0 +1,22 @@
+{
+    "name": "billclap",
+    "short_name": "Billclap",
+    "start_url": "http://127.0.0.1:5500/Billclap/Billclap.html",
+    "background_color": "blue",
+    "theme_color":"green",
+    "display": "standalone",
+    "icons": [
+        {
+        "src":"images/logo.png",
+        "sizes": "192x192",
+        "type":"image/png"
+        },
+        {
+            "src":"images/logo2.png",
+            "sizes": "192x192",
+            "type":"image/png"
+
+
+        }
+    ]
+}
